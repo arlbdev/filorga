@@ -1,0 +1,21 @@
+# Visual Studio Code specific files
+.vscode/
+
+# Build results
+bin/
+obj/
+
+# .NET-specific files
+*.dll
+*.exe
+*.pdb
+*.user
+
+# User-specific files
+*.suo
+*.cache
+*.log
+
+# Miscellaneous
+Thumbs.db
+Desktop.ini
